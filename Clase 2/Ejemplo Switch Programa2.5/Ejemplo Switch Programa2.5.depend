@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1748022920 source:c:\users\administrator\desktop\espacio de trabajo para git\clase 2\ejemplo switch programa2.5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
