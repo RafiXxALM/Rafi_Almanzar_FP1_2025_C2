@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1750439089 source:c:\users\administrator\desktop\espacio de trabajo para git\clase 6\ejemplo programa6.1\main.c
+	<stdio.h>
+	<stdlib.h>
+
